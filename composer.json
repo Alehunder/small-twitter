@@ -1,0 +1,13 @@
+{
+    "name": "alexander/small-twitter",
+    "description": "little php project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Alexander Lisovenko",
+            "email": "sashs.s.lisovenko@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
